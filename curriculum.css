@@ -100,8 +100,10 @@ img{
 .more{
 	
 	padding-left: 20px;
+	padding-top: 0px;
 	float: left;
 	margin-right: 70px;
+	margin-top: 0px; 
 	margin-left: 0px;
 	
 
@@ -112,9 +114,8 @@ img{
 	width: 960px;
 	margin-top: 0px;
 	margin-right: auto;
-	
-	height: 13%;
-	
+	height: 14%;
+
 }
 
 
@@ -162,18 +163,19 @@ img{
 #mas2{
 	width: 960px;
 	margin-top: 5px;
-	margin-right: auto;
-	padding-left: 2%;
+	
+	
 	
 }
 
 #mas3{
-	padding-left: 10px;
-	float: right;
-	width: 960px;
-	margin-right: 0px;
+	padding-top: 0px;
+	float: left;
+	margin-right: 70px;
+	margin-top: 0px; 
 	margin-left: 0px;
-	margin-top: 0px;
+	width: 960px;
+	
 	
 }
 #tec{
