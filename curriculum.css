@@ -85,7 +85,7 @@ img{
 	margin: auto;
 	padding-left: 2%;
 	width: 960px;
-	height: 400px;
+	height: 600px;
 }
 
 .educacion{
@@ -94,7 +94,7 @@ img{
 }
 .experiencia{
 	float: right;
-	width: 400px;
+	width: 500px;
 }
 .more{
 	
@@ -108,7 +108,7 @@ img{
 
 #mas{
 	width: 960px;
-	margin-top: 70px;
+	margin-top: 10px;
 	margin-right: auto;
 }
 
