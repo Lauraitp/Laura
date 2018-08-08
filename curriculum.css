@@ -137,6 +137,7 @@ img{
 #hb:hover{
 	background-color: #00897B;
 	color: white;
+	padding-left: 2px;
 }
 #hb1{
 	float: left;
