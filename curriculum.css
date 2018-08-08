@@ -1,0 +1,160 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald|Roboto');
+
+body{
+ height: 1200px;
+ width: 960px;
+ margin: auto;
+ background-color: #F2F0F0;
+}
+
+#nombre{
+font-family: 'Oswald', sans-serif;
+margin: 0px;
+padding-top: 20px;
+
+}
+
+#cargo{
+margin: 0px;
+font-family: 'Roboto', sans-serif;
+opacity: 0.8;
+}
+
+h5, h3{
+	font-weight: normal;
+	font-family: 'Roboto', sans-serif;
+}
+
+p{
+	font-weight: normal;
+	font-family: 'Roboto', sans-serif;
+	font-size: 16px;
+}
+
+h4{
+	font-size: 20px;
+	color: #00897B;
+}
+
+#info {
+font-family: 'Roboto', sans-serif;
+font-weight: normal;
+opacity: 0.8;
+}
+
+.fecha{
+color: gray;
+}
+
+#info1{
+	float: left;
+	margin-right: 3px;
+	padding-right: 50px;
+
+}
+.header{
+background-color: #00897B;
+color: white;
+width: 960px;
+height: 205px;
+}
+
+img{
+	float: left;
+	height: 250px;
+ 	width: 250px;
+ 	padding: 20px;
+}
+
+.fa-user{
+	float: left;
+	margin-right: 5px;
+
+	font-weight: normal;
+	font-size: 20px;
+	color: #00897B;
+}
+
+.fa-pencil-alt, .fa-briefcase, .fa-heart, .fa-graduation-cap, .fa-language, .fa-globe-americas, .fa-star, .fa-laptop {
+	float: left;
+	margin-right: 5px;
+
+	
+	font-size: 20px;
+	color: #00897B;
+}
+.info2{
+	margin: auto;
+	padding-left: 2%;
+	width: 960px;
+	height: 400px;
+}
+
+.educacion{
+	float: left;
+	width: 400px;
+}
+.experiencia{
+	float: right;
+	width: 400px;
+}
+.more{
+	
+	padding-left: 2%;
+	float: left;
+	margin-right: 110px;
+}
+
+
+#mas{
+	width: 960px;
+	margin-top: 70px;
+	margin-right: auto;
+}
+#hb{
+	float: left;
+	box-shadow: 2px 2px 5px #999;
+	padding: 20px;
+	background-color: white;
+	width: 250px;
+	height: 65px;
+	margin: 30px;
+	padding-top: 0px;
+	margin-top: 8px;
+	margin-left: 0px;
+	color: black;
+
+
+}
+#hb:hover{
+	background-color: #00897B;
+	color: white;
+}
+#hb1{
+	float: left;
+	box-shadow: 2px 2px 5px #999;
+	padding: 20px;
+	padding-top: 0px;
+	background-color: white;
+	width: 566px;
+	margin: 1px;
+	margin-top: 8px;
+	height: 65px;
+	color: black;
+
+}
+#hb1:hover{
+	background-color: #00897B;
+	color: white;
+}
+
+#skill{
+	float: left;
+	}
+
+#mas2{
+	width: 960px;
+	margin-top: 250px;
+	margin-right: auto;
+	padding-left: 2%;
+}
