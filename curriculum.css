@@ -85,7 +85,7 @@ img{
 	margin: auto;
 	padding-left: 2%;
 	width: 960px;
-	height: 550px;
+	height: 450px;
 }
 
 .educacion{
@@ -100,7 +100,7 @@ img{
 	
 	padding-left: 20px;
 	float: left;
-	margin-right: 60px;
+	margin-right: 70px;
 	margin-left: 0px;
 
 }
@@ -108,7 +108,7 @@ img{
 
 #mas{
 	width: 960px;
-	margin-top: 10px;
+	margin-top: 0px;
 	margin-right: auto;
 }
 
@@ -156,7 +156,7 @@ img{
 
 #mas2{
 	width: 960px;
-	margin-top: 300px;
+	margin-top: 20%;
 	margin-right: auto;
 	padding-left: 2%;
 }
@@ -167,4 +167,5 @@ img{
 	width: 960px;
 	margin-right: 0px;
 	margin-left: 0px;
+	margin-top: 0px;
 }
